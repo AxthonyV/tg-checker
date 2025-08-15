@@ -99,10 +99,12 @@ python telegram_bulk_checker.py
 
 MIT License — see [`LICENSE`](LICENSE).
 
-## Author
+## 👨‍💻 Author
 
-**AxthonyV**  
-GitHub: [@AxthonyV](https://github.com/AxthonyV)
+<img src="https://github.com/AxthonyV.png" alt="AxthonyV" width="100px" style="border-radius: 50%;">
+
+**AxthonyV**
+- GitHub: [@AxthonyV](https://github.com/AxthonyV)
 
 ## Acknowledgments ⭐
 
